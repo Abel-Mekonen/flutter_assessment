@@ -19,7 +19,7 @@ flutter pub get
 flutter pub run build_runner build
 ```
 
-#### Step 2: Run the app
+#### Step 5: Run the app
 ``` bash
 flutter run
 ```
